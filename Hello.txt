@@ -1,1 +1,3 @@
 " Hello to you people in the world of GitHub :) 
+Another day to try learning GitHub
+I have to say that it has been uneasy
